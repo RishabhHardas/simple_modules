@@ -1,2 +1,2 @@
 # simple_modules
-SImple Linux Kernel Modules
+Simple Linux Kernel Modules
