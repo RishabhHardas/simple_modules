@@ -3,7 +3,6 @@
 */
 #include <linux/module.h>
 #include <linux/kernel.h>
-#include <linux/kernel.h>
 
 int __init hello_init(void)
 {
